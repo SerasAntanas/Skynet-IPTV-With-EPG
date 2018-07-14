@@ -217,6 +217,9 @@ udp://@233.136.41.155:1234
 #EXTINF:-1,TLC Pan
 udp://@233.136.41.167:1234
 
+#EXTINF:-1,TLC
+udp://@233.136.41.2:1234
+
 #EXTINF:-1,Da Vinci Learning
 udp://@233.136.41.5:1234
 
